@@ -1,6 +1,7 @@
 # Estimated consumption app React Project
 
-![Project Demo](path_to_your_gif.gif)
+![Estimate](https://github.com/user-attachments/assets/bf880620-c017-4ac9-bcc5-b35bf340e521)
+
 
 This is the frontend part of the project, built using React and Vite. Follow the instructions below to set up and run the project on your local machine.
 
