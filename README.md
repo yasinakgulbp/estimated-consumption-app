@@ -35,3 +35,4 @@ Make sure you have the following installed:
     ```bash
     npm run dev
 2.  **Open your browser and go to http://localhost:5173 (Vite's default port). You should see the application running.**
+3.  **If you want to run the project on a different port, please update the `.allowedOrigins` property in the `config/WebConfig.java` file.**
